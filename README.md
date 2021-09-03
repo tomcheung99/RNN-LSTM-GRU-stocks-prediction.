@@ -1,0 +1,2 @@
+# RNN-LSTM-GRU-stocks-prediction.
+Stock price estimation is a key issue in the financial world as it helps to build profitable stock market strategies. The most promising models for predicting stock prices are deep learning models. The objective is to compare the performance of machine learning recurrent neural networks, such as vanilla recurrent neural network (VRNN), long short-term memory (LSTM) and gated recurrent unit (GRU) in predicting AMD and Intel performance. According to the experimental results, LSTM is the most competitive in predicting stock prices.
